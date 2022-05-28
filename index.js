@@ -1,6 +1,6 @@
 const express = require("express");
 const JSONdb = require("simple-json-db");
-const db = new JSONdb("data.kv");
+const db = new JSONdb("eKV.json");
 const app = express();
 
 app.get("/set/*/*", (req, res) => {

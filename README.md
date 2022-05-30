@@ -11,3 +11,7 @@ Stupid like me? Simple but simple to understand "docs" located at <code>:1122/</
 module contaisn a very simple & wasy way to use eKV without writing code yourself 🤷‍♂️
 
 I gotchu I'm also lazy
+
+I said it in the file but I will say it here too.
+
+"K & V should be explanatory but host should be set to http(s)://ip:1122"
